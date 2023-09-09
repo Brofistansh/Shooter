@@ -3564,3 +3564,50 @@ Script Stack (0 frames) :
 [2023.09.09-09.02.40:835][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto6
 [2023.09.09-09.02.40:835][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/GM_Target_Game_Auto6BA1428F944068B143EB55BA394EBB100.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto6.uasset'
 [2023.09.09-09.02.40:836][871]LogFileHelpers: Auto-saving content packages took 0.229
+[2023.09.09-09.06.22:994][440]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2023.09.09-09.06.25:232][440]LogSlate: Window 'Save Content' being destroyed
+[2023.09.09-09.06.25:242][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-09.06.25:371][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.09.09-09.06.25:380][440]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.09.09-09.06.25:380][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/FirstPersonMap7A5E775F41D025D4B83D3FBD4FA0BF9A.tmp' to '../../../../../../unrealprojects/Shooter/Content/FirstPerson/Maps/FirstPersonMap.umap'
+[2023.09.09-09.06.25:392][440]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5
+[2023.09.09-09.06.25:392][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.09.09-09.06.25:399][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y
+[2023.09.09-09.06.25:399][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/UOAMHO5YISXMN8B7897E0Y355E2A9643CB8D623636A7B008237AD1.tmp' to '../../../../../../unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y.uasset'
+[2023.09.09-09.06.25:407][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG
+[2023.09.09-09.06.25:407][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/XS6LPC2PX92K0KOZJ7UBLG6BA2E17E4D3E4FEBD4284A811D193460.tmp' to '../../../../../../unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG.uasset'
+[2023.09.09-09.06.25:413][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5
+[2023.09.09-09.06.25:413][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/92M3RLBO14E527UHHUXVS53D3BB0354FEED655FA37FF8CDA6DDAA3.tmp' to '../../../../../../unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5.uasset'
+[2023.09.09-09.06.25:418][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 25 ms (total: 334 ms)
+[2023.09.09-09.06.25:418][440]Message dialog closed, result: Ok, title: Unable to Check Out From Revision Control!, text: The following assets could not be successfully checked out from revision control:
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG
+/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5
+[2023.09.09-09.06.25:421][440]LogFileHelpers: Saving map 'FirstPersonMap' took 0.094
+[2023.09.09-09.06.25:442][440]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2023.09.09-09.06.25:443][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/BP_FirstPersonCharacter040440F44917B1EC61C111A5E54EF856.tmp' to '../../../../../../unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2023.09.09-09.06.25:448][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y
+[2023.09.09-09.06.25:449][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/UOAMHO5YISXMN8B7897E0Y22FBDF2F4F13E0559EF2BD8E954C6B0B.tmp' to '../../../../../../unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y.uasset'
+[2023.09.09-09.06.25:610][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/BP_Target" FILE="../../../../../../unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Target.uasset" SILENT=true
+[2023.09.09-09.06.25:622][440]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Target
+[2023.09.09-09.06.25:623][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/BP_Target419944BB41F9D7A75B07E8BB260EDB32.tmp' to '../../../../../../unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Target.uasset'
+[2023.09.09-09.06.25:629][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG
+[2023.09.09-09.06.25:629][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/XS6LPC2PX92K0KOZJ7UBLG4ADA23494392CB39C9E5EFBFA3A639FA.tmp' to '../../../../../../unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG.uasset'
+[2023.09.09-09.06.25:634][440]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5
+[2023.09.09-09.06.25:634][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/92M3RLBO14E527UHHUXVS5A45B510348BC84D5A70DCFAF81D58E33.tmp' to '../../../../../../unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5.uasset'
+[2023.09.09-09.06.25:636][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Blueprints/GM_Target_Game" FILE="../../../../../../unrealprojects/Shooter/Content/FirstPerson/Blueprints/GM_Target_Game.uasset" SILENT=true
+[2023.09.09-09.06.25:642][440]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/GM_Target_Game
+[2023.09.09-09.06.25:643][440]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/GM_Target_Game07FC14B24F1BD4D776487F8D9BDC5768.tmp' to '../../../../../../unrealprojects/Shooter/Content/FirstPerson/Blueprints/GM_Target_Game.uasset'
+[2023.09.09-09.06.25:653][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 411 ms (total: 745 ms)
+[2023.09.09-09.06.25:660][440]AssetCheck: New page: Asset Save: multiple assets
+[2023.09.09-09.06.25:660][440]LogContentValidation: Display: Validating /Script/Engine.World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2023.09.09-09.06.25:660][440]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_60E9AADE692E44A701_1929287479
+[2023.09.09-09.06.25:660][440]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_60E9AADE692E44A701_2034506480
+[2023.09.09-09.06.25:660][440]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_Target.BP_Target_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Target_C_UAID_60E9AADE692E44A701_2097961481
+[2023.09.09-09.06.25:660][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2023.09.09-09.06.25:660][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_Target.BP_Target
+[2023.09.09-09.06.25:660][440]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/GM_Target_Game.GM_Target_Game
+[2023.09.09-09.06.25:670][440]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests

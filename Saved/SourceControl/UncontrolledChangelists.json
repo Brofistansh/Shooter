@@ -6,7 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Target.uasset",
-				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/GM_Target_Game.uasset"
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/GM_Target_Game.uasset",
+				"C:/unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y.uasset",
+				"C:/unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG.uasset",
+				"C:/unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5.uasset",
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]

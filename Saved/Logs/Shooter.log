@@ -3455,3 +3455,112 @@ Script Stack (0 frames) :
 [2023.09.09-08.53.49:253][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
 [2023.09.09-08.53.49:260][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
 [2023.09.09-08.53.49:308][423]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.09.09-08.56.40:896][777]BlueprintLog: New page: Compile GM_Target_Game
+[2023.09.09-08.56.40:923][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.09.09-08.56.59:650][719]LogEditorTransaction: Undo Move Node
+[2023.09.09-08.57.00:340][747]LogEditorTransaction: Undo Add Node
+[2023.09.09-08.57.00:981][800]LogEditorTransaction: Undo Change Parameter Type
+[2023.09.09-08.57.01:884][884]LogEditorTransaction: Undo Rename Variable
+[2023.09.09-08.57.03:055][  0]LogEditorTransaction: Undo Add Variable
+[2023.09.09-08.57.29:110][934]BlueprintLog: New page: Compile BP_Target
+[2023.09.09-08.57.29:147][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.09.09-09.00.36:167][621]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.09-09.00.36:176][621]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.09-09.00.36:176][621]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.09.09-09.00.36:181][621]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5 ms (total: 153 ms)
+[2023.09.09-09.00.36:182][621]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.09-09.00.36:182][621]LogPlayLevel: [PlayLevel] Compiling BP_Target before play...
+[2023.09.09-09.00.36:216][621]LogPlayLevel: [PlayLevel] Compiling GM_Target_Game before play...
+[2023.09.09-09.00.36:256][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.09.09-09.00.36:259][621]LogPlayLevel: PlayLevel: Blueprint regeneration took 76 ms (2 blueprints)
+[2023.09.09-09.00.36:259][621]PIE: New page: PIE session: FirstPersonMap (09-Sep-2023, 8:00:36 pm)
+[2023.09.09-09.00.36:259][621]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.09-09.00.36:263][621]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004275s)
+[2023.09.09-09.00.36:263][621]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004310s)
+[2023.09.09-09.00.36:275][621]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2023.09.09-09.00.36:276][621]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.09-09.00.36:276][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.09-09.00.36:276][621]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.09-09.00.36:277][621]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.09-09.00.36:277][621]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.09-09.00.36:277][621]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.09-09.00.36:277][621]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.09-09.00.36:278][621]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.09-09.00.36:278][621]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 121 ms)
+[2023.09.09-09.00.36:278][621]LogPlayLevel: PIE: World Init took: (0.002533s)
+[2023.09.09-09.00.36:278][621]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.09.09-09.00.36:278][621]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.09-09.00.36:278][621]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.09-09.00.36:278][621]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.09-09.00.36:278][621]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.09-09.00.36:279][621]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.09-09.00.36:279][621]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.09-09.00.36:279][621]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.09-09.00.36:279][621]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.09-09.00.36:279][621]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.09-09.00.36:279][621]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.09-09.00.36:279][621]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.09-09.00.36:281][621]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.09-09.00.36:299][621]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Airdopes 141)
+[2023.09.09-09.00.36:299][621]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.09-09.00.36:299][621]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.09-09.00.36:299][621]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.09-09.00.36:301][621]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.09.09-09.00.36:301][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.09.09-09.00.36:302][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.09.09-09.00.36:302][621]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.09.09-09.00.36:302][621]LogInit: FAudioDevice initialized with ID 21.
+[2023.09.09-09.00.36:302][621]LogAudio: Display: Audio Device (ID: 21) registered with world 'FirstPersonMap'.
+[2023.09.09-09.00.36:302][621]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.09.09-09.00.36:361][621]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.09-09.00.36:361][621]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.09-09.00.36:364][621]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.09-14.30.36
+[2023.09.09-09.00.36:365][621]LogWorld: Bringing up level for play took: 0.002724
+[2023.09.09-09.00.36:367][621]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.09.09-09.00.36:372][621]PIE: Server logged in
+[2023.09.09-09.00.36:372][621]PIE: Play in editor total start time 0.196 seconds.
+[2023.09.09-09.00.36:401][621]LogViewport: Scene viewport resized to 690x561, mode Windowed.
+[2023.09.09-09.00.40:571][923]LogBlueprintUserMessages: [GM_Target_Game_C_0] 1
+[2023.09.09-09.00.43:131][161]LogBlueprintUserMessages: [GM_Target_Game_C_0] 2
+[2023.09.09-09.00.45:282][364]LogBlueprintUserMessages: [GM_Target_Game_C_0] 3
+[2023.09.09-09.01.25:777][220]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.09-09.01.25:777][220]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.09-09.01.25:777][220]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.09-09.01.25:783][220]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.09-09.01.25:783][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-09.01.25:783][220]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.09-09.01.25:795][220]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.09-09.01.25:799][220]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.09-09.01.25:817][220]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.09.09-09.01.25:817][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.09.09-09.01.25:818][220]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.09.09-09.01.25:825][220]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.09.09-09.01.25:880][221]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.09.09-09.02.40:573][871]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.09.09-09.02.40:584][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto6
+[2023.09.09-09.02.40:584][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/FirstPersonMap_Auto69F9573664271DF50202B5AABE7B2A3CC.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto6.umap'
+[2023.09.09-09.02.40:588][871]LogAssetRegistry: Warning: ScanPathsSynchronous: ../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto6.umap is in the /Temp path, will not scan.
+[2023.09.09-09.02.40:589][871]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto6 is in the /Temp path, will not scan.
+[2023.09.09-09.02.40:589][871]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/FirstPerson/Maps/FirstPersonMap_Auto6 is in the /Temp path, will not scan.
+[2023.09.09-09.02.40:593][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y_Auto6
+[2023.09.09-09.02.40:593][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/UOAMHO5YISXMN8B7897E0Y_Auto6B121809A4819E1072077CF9196112864.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/IU/UOAMHO5YISXMN8B7897E0Y_Auto6.uasset'
+[2023.09.09-09.02.40:598][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG_Auto6
+[2023.09.09-09.02.40:598][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/XS6LPC2PX92K0KOZJ7UBLG_Auto614988CD8458F843E9EDFDDAF62DE69E9.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/PF/XS6LPC2PX92K0KOZJ7UBLG_Auto6.uasset'
+[2023.09.09-09.02.40:603][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5_Auto6
+[2023.09.09-09.02.40:603][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/92M3RLBO14E527UHHUXVS5_Auto62B8F4F7A4A4501A16F2CC98E0658783A.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/J4/92M3RLBO14E527UHHUXVS5_Auto6.uasset'
+[2023.09.09-09.02.40:607][871]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.050
+[2023.09.09-09.02.40:607][871]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.050
+[2023.09.09-09.02.40:607][871]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2023.09.09-09.02.40:607][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2023.09.09-09.02.40:634][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6
+[2023.09.09-09.02.40:634][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/BP_FirstPersonCharacter_Auto64C2D16C545994A177340E3A0ACE864C0.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6.uasset'
+[2023.09.09-09.02.40:636][871]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_Target] ([2] browsable assets)...
+[2023.09.09-09.02.40:816][871]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_Target.BP_Target]
+[2023.09.09-09.02.40:816][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_Target]
+[2023.09.09-09.02.40:827][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_Target_Auto6
+[2023.09.09-09.02.40:827][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/BP_Target_Auto6F78D954F4BD3170DF3C2FDA8CFA0559B.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_Target_Auto6.uasset'
+[2023.09.09-09.02.40:828][871]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/GM_Target_Game] ([2] browsable assets)...
+[2023.09.09-09.02.40:828][871]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/GM_Target_Game]
+[2023.09.09-09.02.40:835][871]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto6
+[2023.09.09-09.02.40:835][871]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/GM_Target_Game_Auto6BA1428F944068B143EB55BA394EBB100.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto6.uasset'
+[2023.09.09-09.02.40:836][871]LogFileHelpers: Auto-saving content packages took 0.229

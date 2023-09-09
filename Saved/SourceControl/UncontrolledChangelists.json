@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Target.uasset"
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Target.uasset",
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/GM_Target_Game.uasset"
 			]
 		}
 	]

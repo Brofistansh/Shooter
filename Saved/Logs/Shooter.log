@@ -1799,3 +1799,738 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.09.10-17.30.27:824][ 78]LogHttp: Warning: 000006530EACBE00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
 [2023.09.10-17.30.27:824][ 78]LogHttp: Warning: 000006530EACBE00: libcurl info message cache 9 (Closing connection 23)
 [2023.09.10-17.30.27:824][ 78]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 1 (  Trying 35.172.69.50:443...)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.172.69.50) port 443 (#24))
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: 00000653033AA500: libcurl info message cache 9 (Closing connection 24)
+[2023.09.10-17.31.28:167][566]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 1 (  Trying 34.233.164.238:443...)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.233.164.238) port 443 (#25))
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: 00000653033AF000: libcurl info message cache 9 (Closing connection 25)
+[2023.09.10-17.32.28:173][746]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 1 (  Trying 174.129.174.99:443...)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (174.129.174.99) port 443 (#26))
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: 00000653033AB400: libcurl info message cache 9 (Closing connection 26)
+[2023.09.10-17.33.28:180][926]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 1 (  Trying 174.129.174.99:443...)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (174.129.174.99) port 443 (#27))
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: 000006530F940500: libcurl info message cache 9 (Closing connection 27)
+[2023.09.10-17.34.27:766][506]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 1 (  Trying 52.200.134.208:443...)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.134.208) port 443 (#28))
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: 0000065303649100: libcurl info message cache 9 (Closing connection 28)
+[2023.09.10-17.35.27:795][988]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.35.54:042][785]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.10-17.36.27:455][710]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.09.10-17.36.27:458][710]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.021
+[2023.09.10-17.36.27:459][710]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/GM_Target_Game] ([2] browsable assets)...
+[2023.09.10-17.36.27:459][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/GM_Target_Game]
+[2023.09.10-17.36.27:469][710]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.008025 seconds
+[2023.09.10-17.36.27:486][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto1
+[2023.09.10-17.36.27:487][710]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/GM_Target_Game_Auto10DF615DB45C41D472EDCBB9F20A8201F.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto1.uasset'
+[2023.09.10-17.36.27:489][710]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_EndScreen] ([2] browsable assets)...
+[2023.09.10-17.36.27:493][710]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen]
+[2023.09.10-17.36.27:493][710]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_EndScreen]
+[2023.09.10-17.36.27:503][710]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_EndScreen_Auto1
+[2023.09.10-17.36.27:503][710]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/WBP_EndScreen_Auto1A929D4BD4D0AE07DF2126F80E7B8FBAF.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_EndScreen_Auto1.uasset'
+[2023.09.10-17.36.27:504][710]LogFileHelpers: Auto-saving content packages took 0.045
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 1 (  Trying 3.221.50.168:443...)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.221.50.168) port 443 (#29))
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: 00000653112AB900: libcurl info message cache 9 (Closing connection 29)
+[2023.09.10-17.36.27:758][738]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.37.01:632][798]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2023.09.10-17.37.01:632][798]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 1 (  Trying 54.147.48.240:443...)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.147.48.240) port 443 (#30))
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: 00000653112AF000: libcurl info message cache 9 (Closing connection 30)
+[2023.09.10-17.37.27:910][323]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.38.01:933][504]LogSlate: Window 'Color Picker' being destroyed
+[2023.09.10-17.38.06:904][853]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-17.38.06:912][853]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.10-17.38.06:912][853]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.09.10-17.38.06:923][853]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 10 ms (total: 33 ms)
+[2023.09.10-17.38.06:923][853]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.10-17.38.06:926][853]LogPlayLevel: [PlayLevel] Compiling WBP_EndScreen before play...
+[2023.09.10-17.38.07:006][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.10-17.38.07:011][853]LogPlayLevel: PlayLevel: Blueprint regeneration took 87 ms (1 blueprints)
+[2023.09.10-17.38.07:011][853]PIE: New page: PIE session: FirstPersonMap (11-Sep-2023, 4:38:07 am)
+[2023.09.10-17.38.07:011][853]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.38.07:015][853]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004620s)
+[2023.09.10-17.38.07:015][853]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004661s)
+[2023.09.10-17.38.07:029][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.09.10-17.38.07:030][853]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.38.07:030][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.38.07:030][853]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.38.07:031][853]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.38.07:031][853]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.38.07:031][853]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.38.07:031][853]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.38.07:032][853]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.38.07:032][853]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 116 ms)
+[2023.09.10-17.38.07:032][853]LogPlayLevel: PIE: World Init took: (0.002386s)
+[2023.09.10-17.38.07:033][853]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.09.10-17.38.07:033][853]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-17.38.07:033][853]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-17.38.07:033][853]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-17.38.07:033][853]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-17.38.07:033][853]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-17.38.07:033][853]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.10-17.38.07:033][853]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-17.38.07:033][853]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-17.38.07:033][853]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-17.38.07:033][853]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-17.38.07:033][853]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-17.38.07:035][853]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-17.38.07:054][853]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Airdopes 141)
+[2023.09.10-17.38.07:054][853]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-17.38.07:054][853]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-17.38.07:054][853]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-17.38.07:055][853]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2023.09.10-17.38.07:055][853]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2023.09.10-17.38.07:057][853]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2023.09.10-17.38.07:057][853]LogInit: FAudioDevice initialized with ID 7.
+[2023.09.10-17.38.07:057][853]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2023.09.10-17.38.07:057][853]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2023.09.10-17.38.07:057][853]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.10-17.38.07:125][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.38.07:125][853]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.38.07:128][853]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.08.07
+[2023.09.10-17.38.07:128][853]LogWorld: Bringing up level for play took: 0.002940
+[2023.09.10-17.38.07:130][853]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2023.09.10-17.38.07:134][853]PIE: Server logged in
+[2023.09.10-17.38.07:135][853]PIE: Play in editor total start time 0.223 seconds.
+[2023.09.10-17.38.07:170][853]LogViewport: Scene viewport resized to 778x864, mode Windowed.
+[2023.09.10-17.38.08:984][962]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2023.09.10-17.38.25:962][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.38.25:962][310]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.38.25:962][310]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.10-17.38.25:968][310]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.38.25:969][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.38.25:969][310]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.38.25:971][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-17.38.25:975][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.38.25:991][310]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2023.09.10-17.38.25:991][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.10-17.38.25:993][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2023.09.10-17.38.25:999][310]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2023.09.10-17.38.26:058][311]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 1 (  Trying 54.209.226.71:443...)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.226.71) port 443 (#31))
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: 000006530D971400: libcurl info message cache 9 (Closing connection 31)
+[2023.09.10-17.38.27:830][524]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.38.35:703][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:704][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:706][423]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:780][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:781][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:790][424]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:855][426]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:865][426]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:875][427]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.35:948][429]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:013][430]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:086][432]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:096][433]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:169][435]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:226][436]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:237][436]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:244][437]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:304][438]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:314][438]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:323][439]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:380][440]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:398][441]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:454][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:462][442]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:535][444]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:544][445]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:618][447]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.38.36:683][448]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2023.09.10-17.39.27:868][594]LogHttp: Warning: 0000065306101400: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 1 (  Trying 107.23.11.36:443...)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (107.23.11.36) port 443 (#32))
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: 0000065306101400: libcurl info message cache 9 (Closing connection 32)
+[2023.09.10-17.39.27:869][594]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 1 (  Trying 54.209.226.71:443...)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.209.226.71) port 443 (#33))
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: 000006530F395000: libcurl info message cache 9 (Closing connection 33)
+[2023.09.10-17.40.27:787][186]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 1 (  Trying 3.220.129.151:443...)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.220.129.151) port 443 (#34))
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: 000006530F394B00: libcurl info message cache 9 (Closing connection 34)
+[2023.09.10-17.41.27:784][384]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 1 (  Trying 174.129.174.99:443...)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (174.129.174.99) port 443 (#35))
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: 000006530FEB7800: libcurl info message cache 9 (Closing connection 35)
+[2023.09.10-17.42.27:733][533]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.42.44:416][237]LogEditorTransaction: Undo Add Node
+[2023.09.10-17.42.51:585][990]LogSlate: Took 0.000267 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.09.10-17.43.12:868][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-17.43.12:875][584]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.10-17.43.12:875][584]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.09.10-17.43.12:881][584]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 38 ms)
+[2023.09.10-17.43.12:881][584]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.10-17.43.12:882][584]LogPlayLevel: [PlayLevel] Compiling WBP_EndScreen before play...
+[2023.09.10-17.43.12:921][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.09.10-17.43.12:924][584]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2023.09.10-17.43.12:924][584]PIE: New page: PIE session: FirstPersonMap (11-Sep-2023, 4:43:12 am)
+[2023.09.10-17.43.12:924][584]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.43.12:929][584]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004283s)
+[2023.09.10-17.43.12:929][584]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004319s)
+[2023.09.10-17.43.12:942][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2023.09.10-17.43.12:943][584]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.43.12:943][584]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.43.12:943][584]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.43.12:944][584]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.43.12:944][584]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.43.12:944][584]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.43.12:944][584]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.43.12:945][584]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.43.12:945][584]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 117 ms)
+[2023.09.10-17.43.12:945][584]LogPlayLevel: PIE: World Init took: (0.002437s)
+[2023.09.10-17.43.12:945][584]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.09.10-17.43.12:945][584]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-17.43.12:945][584]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-17.43.12:945][584]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-17.43.12:945][584]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-17.43.12:945][584]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-17.43.12:945][584]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.10-17.43.12:945][584]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-17.43.12:945][584]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-17.43.12:945][584]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-17.43.12:945][584]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-17.43.12:945][584]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-17.43.12:947][584]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-17.43.12:966][584]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Airdopes 141)
+[2023.09.10-17.43.12:966][584]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-17.43.12:966][584]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-17.43.12:966][584]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-17.43.12:967][584]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2023.09.10-17.43.12:967][584]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2023.09.10-17.43.12:968][584]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2023.09.10-17.43.12:968][584]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2023.09.10-17.43.12:968][584]LogInit: FAudioDevice initialized with ID 8.
+[2023.09.10-17.43.12:968][584]LogAudio: Display: Audio Device (ID: 8) registered with world 'FirstPersonMap'.
+[2023.09.10-17.43.12:968][584]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2023.09.10-17.43.13:029][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.43.13:029][584]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.43.13:033][584]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.13.13
+[2023.09.10-17.43.13:033][584]LogWorld: Bringing up level for play took: 0.002643
+[2023.09.10-17.43.13:035][584]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2023.09.10-17.43.13:039][584]PIE: Server logged in
+[2023.09.10-17.43.13:040][584]PIE: Play in editor total start time 0.163 seconds.
+[2023.09.10-17.43.13:055][584]LogViewport: Scene viewport resized to 780x874, mode Windowed.
+[2023.09.10-17.43.27:784][718]LogHttp: Warning: 00000653112A9100: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 1 (  Trying 52.200.166.195:443...)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.166.195) port 443 (#36))
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: 00000653112A9100: libcurl info message cache 9 (Closing connection 36)
+[2023.09.10-17.43.27:785][718]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.43.43:304][ 29]Set new viewmode: Wireframe
+[2023.09.10-17.43.47:084][481]Set new viewmode: Wireframe
+[2023.09.10-17.43.48:534][655]Set new viewmode: Wireframe
+[2023.09.10-17.43.50:192][851]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.43.50:192][851]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.43.50:193][851]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.10-17.43.50:197][851]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.43.50:198][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.43.50:198][851]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.43.50:200][851]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-17.43.50:205][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.43.50:221][851]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2023.09.10-17.43.50:221][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.10-17.43.50:223][851]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2023.09.10-17.43.50:230][851]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2023.09.10-17.43.50:282][852]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.09.10-17.43.51:971][ 54]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-17.43.51:979][ 54]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.10-17.43.51:979][ 54]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.09.10-17.43.51:985][ 54]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 43 ms)
+[2023.09.10-17.43.51:985][ 54]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.10-17.43.51:985][ 54]PIE: New page: PIE session: FirstPersonMap (11-Sep-2023, 4:43:51 am)
+[2023.09.10-17.43.51:985][ 54]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.43.51:989][ 54]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004293s)
+[2023.09.10-17.43.51:989][ 54]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004324s)
+[2023.09.10-17.43.52:002][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.09.10-17.43.52:004][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.43.52:004][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.43.52:004][ 54]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.43.52:005][ 54]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.43.52:005][ 54]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.43.52:005][ 54]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.43.52:005][ 54]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.43.52:006][ 54]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.43.52:006][ 54]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 118 ms)
+[2023.09.10-17.43.52:006][ 54]LogPlayLevel: PIE: World Init took: (0.002440s)
+[2023.09.10-17.43.52:006][ 54]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.09.10-17.43.52:006][ 54]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-17.43.52:006][ 54]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-17.43.52:006][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-17.43.52:006][ 54]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-17.43.52:006][ 54]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-17.43.52:006][ 54]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.10-17.43.52:006][ 54]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-17.43.52:006][ 54]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-17.43.52:006][ 54]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-17.43.52:006][ 54]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-17.43.52:006][ 54]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-17.43.52:009][ 54]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-17.43.52:027][ 54]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Airdopes 141)
+[2023.09.10-17.43.52:027][ 54]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-17.43.52:027][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-17.43.52:027][ 54]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-17.43.52:028][ 54]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2023.09.10-17.43.52:028][ 54]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2023.09.10-17.43.52:030][ 54]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2023.09.10-17.43.52:030][ 54]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2023.09.10-17.43.52:030][ 54]LogInit: FAudioDevice initialized with ID 9.
+[2023.09.10-17.43.52:030][ 54]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2023.09.10-17.43.52:030][ 54]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.10-17.43.52:095][ 54]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.43.52:095][ 54]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.43.52:098][ 54]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.13.52
+[2023.09.10-17.43.52:098][ 54]LogWorld: Bringing up level for play took: 0.002719
+[2023.09.10-17.43.52:100][ 54]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.09.10-17.43.52:105][ 54]PIE: Server logged in
+[2023.09.10-17.43.52:106][ 54]PIE: Play in editor total start time 0.126 seconds.
+[2023.09.10-17.43.52:111][ 54]LogViewport: Scene viewport resized to 782x884, mode Windowed.
+[2023.09.10-17.44.04:609][ 27]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.09.10-17.44.04:609][ 27]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.09.10-17.44.04:609][ 27]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.44.04:610][ 27]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.44.04:610][ 27]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.44.04:610][ 27]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.44.04:648][ 27]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.10-17.44.04:650][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2023.09.10-17.44.04:654][ 27]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.44.04:659][ 27]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004349s)
+[2023.09.10-17.44.04:659][ 27]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004417s)
+[2023.09.10-17.44.04:659][ 27]LogAudio: Display: Audio Device (ID: 9) registered with world 'FirstPersonMap'.
+[2023.09.10-17.44.04:659][ 27]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.44.04:659][ 27]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.44.04:660][ 27]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.44.04:660][ 27]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.44.04:660][ 27]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.44.04:660][ 27]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.44.04:660][ 27]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.44.04:661][ 27]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.44.04:661][ 27]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 120 ms)
+[2023.09.10-17.44.04:661][ 27]LogPlayLevel: PIE: World Init took: (0.002316s)
+[2023.09.10-17.44.04:661][ 27]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.44.04:663][ 27]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.14.04
+[2023.09.10-17.44.04:663][ 27]LogWorld: Bringing up level for play took: 0.001863
+[2023.09.10-17.44.04:666][ 27]LogLoad: Took 0.056796 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.09.10-17.44.15:662][800]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.44.15:662][800]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.44.15:662][800]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.10-17.44.15:667][800]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.44.15:667][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.44.15:667][800]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.44.15:670][800]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-17.44.15:674][800]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.44.15:690][800]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2023.09.10-17.44.15:691][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.10-17.44.15:693][800]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2023.09.10-17.44.15:700][800]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2023.09.10-17.44.15:753][801]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 1 (  Trying 35.168.156.15:443...)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (35.168.156.15) port 443 (#37))
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: 0000065319897D00: libcurl info message cache 9 (Closing connection 37)
+[2023.09.10-17.44.27:834][654]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 1 (  Trying 52.200.134.208:443...)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.134.208) port 443 (#38))
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: 0000065318384B00: libcurl info message cache 9 (Closing connection 38)
+[2023.09.10-17.45.27:794][824]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 1 (  Trying 52.200.134.208:443...)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.200.134.208) port 443 (#39))
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: 000006531B91AF00: libcurl info message cache 9 (Closing connection 39)
+[2023.09.10-17.46.27:835][637]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.47.05:416][521]LogEditorTransaction: Undo Add Node
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 1 (  Trying 52.201.139.87:443...)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.201.139.87) port 443 (#40))
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: 000006531E405F00: libcurl info message cache 9 (Closing connection 40)
+[2023.09.10-17.47.28:110][134]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.48.05:915][156]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-17.48.05:923][156]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.10-17.48.05:923][156]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.09.10-17.48.05:928][156]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 48 ms)
+[2023.09.10-17.48.05:928][156]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.09.10-17.48.05:930][156]LogPlayLevel: [PlayLevel] Compiling GM_Target_Game before play...
+[2023.09.10-17.48.05:970][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2023.09.10-17.48.05:973][156]LogPlayLevel: PlayLevel: Blueprint regeneration took 44 ms (1 blueprints)
+[2023.09.10-17.48.05:973][156]PIE: New page: PIE session: FirstPersonMap (11-Sep-2023, 4:48:05 am)
+[2023.09.10-17.48.05:973][156]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.05:977][156]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004271s)
+[2023.09.10-17.48.05:977][156]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004302s)
+[2023.09.10-17.48.05:992][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.09.10-17.48.05:992][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.48.05:993][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.48.05:993][156]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.48.05:993][156]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.48.05:993][156]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.48.05:993][156]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.48.05:993][156]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.48.05:995][156]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.48.05:995][156]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 121 ms)
+[2023.09.10-17.48.05:995][156]LogPlayLevel: PIE: World Init took: (0.002547s)
+[2023.09.10-17.48.05:995][156]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2023.09.10-17.48.05:995][156]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-17.48.05:995][156]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-17.48.05:995][156]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-17.48.05:995][156]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-17.48.05:995][156]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-17.48.05:995][156]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.10-17.48.05:995][156]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-17.48.05:995][156]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-17.48.05:995][156]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-17.48.05:995][156]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-17.48.05:995][156]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-17.48.05:997][156]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-17.48.06:016][156]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Airdopes 141)
+[2023.09.10-17.48.06:016][156]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-17.48.06:016][156]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-17.48.06:016][156]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-17.48.06:017][156]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2023.09.10-17.48.06:017][156]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2023.09.10-17.48.06:019][156]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2023.09.10-17.48.06:019][156]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2023.09.10-17.48.06:019][156]LogInit: FAudioDevice initialized with ID 10.
+[2023.09.10-17.48.06:019][156]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2023.09.10-17.48.06:019][156]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2023.09.10-17.48.06:105][156]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.48.06:105][156]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.48.06:108][156]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.18.06
+[2023.09.10-17.48.06:109][156]LogWorld: Bringing up level for play took: 0.003869
+[2023.09.10-17.48.06:111][156]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.09.10-17.48.06:115][156]PIE: Server logged in
+[2023.09.10-17.48.06:116][156]PIE: Play in editor total start time 0.192 seconds.
+[2023.09.10-17.48.06:159][156]LogViewport: Scene viewport resized to 784x894, mode Windowed.
+[2023.09.10-17.48.12:715][642]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.09.10-17.48.12:716][642]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.10-17.48.12:716][642]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.10-17.48.13:913][738]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.09.10-17.48.13:913][738]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.09.10-17.48.13:913][738]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.13:914][738]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.48.13:914][738]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.48.13:915][738]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.48.13:966][738]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.10-17.48.13:969][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.10-17.48.13:972][738]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.13:978][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006686s)
+[2023.09.10-17.48.13:978][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006744s)
+[2023.09.10-17.48.13:978][738]LogAudio: Display: Audio Device (ID: 10) registered with world 'FirstPersonMap'.
+[2023.09.10-17.48.13:978][738]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.48.13:979][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.48.13:979][738]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.48.13:980][738]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.48.13:980][738]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.48.13:980][738]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.48.13:980][738]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.48.13:982][738]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.48.13:982][738]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 123 ms)
+[2023.09.10-17.48.13:982][738]LogPlayLevel: PIE: World Init took: (0.003254s)
+[2023.09.10-17.48.13:982][738]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.48.13:983][738]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.18.13
+[2023.09.10-17.48.13:984][738]LogWorld: Bringing up level for play took: 0.001723
+[2023.09.10-17.48.13:986][738]LogLoad: Took 0.073738 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.09.10-17.48.14:973][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.48.14:973][816]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.14:973][816]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.10-17.48.14:978][816]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.48.14:978][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.48.14:978][816]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.48.14:981][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-17.48.14:985][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.48.15:000][816]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2023.09.10-17.48.15:000][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.10-17.48.15:002][816]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2023.09.10-17.48.15:009][816]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.09.10-17.48.15:063][817]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 1 (  Trying 3.220.129.151:443...)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (3.220.129.151) port 443 (#41))
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: 0000065315962800: libcurl info message cache 9 (Closing connection 41)
+[2023.09.10-17.48.28:353][891]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.48.32:753][ 66]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.09.10-17.48.32:761][ 66]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2023.09.10-17.48.32:761][ 66]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2023.09.10-17.48.32:765][ 66]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 5 ms (total: 53 ms)
+[2023.09.10-17.48.32:765][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.09.10-17.48.32:765][ 66]PIE: New page: PIE session: FirstPersonMap (11-Sep-2023, 4:48:32 am)
+[2023.09.10-17.48.32:767][ 66]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.32:770][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004246s)
+[2023.09.10-17.48.32:770][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004278s)
+[2023.09.10-17.48.32:781][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.09.10-17.48.32:783][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.48.32:783][ 66]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.48.32:783][ 66]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.48.32:784][ 66]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.48.32:784][ 66]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.48.32:784][ 66]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.48.32:784][ 66]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.48.32:785][ 66]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.48.32:785][ 66]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 124 ms)
+[2023.09.10-17.48.32:785][ 66]LogPlayLevel: PIE: World Init took: (0.002461s)
+[2023.09.10-17.48.32:785][ 66]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2023.09.10-17.48.32:785][ 66]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.09.10-17.48.32:785][ 66]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.09.10-17.48.32:785][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.09.10-17.48.32:785][ 66]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.09.10-17.48.32:785][ 66]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.09.10-17.48.32:785][ 66]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.09.10-17.48.32:785][ 66]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.09.10-17.48.32:785][ 66]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.09.10-17.48.32:786][ 66]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.09.10-17.48.32:786][ 66]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.09.10-17.48.32:786][ 66]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.09.10-17.48.32:787][ 66]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.09.10-17.48.32:807][ 66]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Airdopes 141)
+[2023.09.10-17.48.32:808][ 66]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.09.10-17.48.32:808][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.09.10-17.48.32:808][ 66]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.09.10-17.48.32:809][ 66]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2023.09.10-17.48.32:809][ 66]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2023.09.10-17.48.32:810][ 66]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2023.09.10-17.48.32:810][ 66]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2023.09.10-17.48.32:810][ 66]LogInit: FAudioDevice initialized with ID 11.
+[2023.09.10-17.48.32:810][ 66]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2023.09.10-17.48.32:810][ 66]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.10-17.48.32:870][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.48.32:870][ 66]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.48.32:874][ 66]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.18.32
+[2023.09.10-17.48.32:874][ 66]LogWorld: Bringing up level for play took: 0.002967
+[2023.09.10-17.48.32:876][ 66]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.09.10-17.48.32:881][ 66]PIE: Server logged in
+[2023.09.10-17.48.32:882][ 66]PIE: Play in editor total start time 0.121 seconds.
+[2023.09.10-17.48.32:889][ 66]LogViewport: Scene viewport resized to 786x904, mode Windowed.
+[2023.09.10-17.48.37:186][366]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2023.09.10-17.48.37:186][366]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.09.10-17.48.37:186][366]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.09.10-17.48.38:444][469]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.09.10-17.48.38:444][469]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2023.09.10-17.48.38:444][469]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.38:445][469]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.48.38:445][469]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.48.38:445][469]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.48.38:496][469]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.09.10-17.48.38:499][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.09.10-17.48.38:500][469]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.38:505][469]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004414s)
+[2023.09.10-17.48.38:506][469]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004469s)
+[2023.09.10-17.48.38:506][469]LogAudio: Display: Audio Device (ID: 11) registered with world 'FirstPersonMap'.
+[2023.09.10-17.48.38:506][469]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.09.10-17.48.38:506][469]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.09.10-17.48.38:506][469]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.09.10-17.48.38:506][469]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2023.09.10-17.48.38:506][469]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.09.10-17.48.38:507][469]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2023.09.10-17.48.38:507][469]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2023.09.10-17.48.38:508][469]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2023.09.10-17.48.38:508][469]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 125 ms)
+[2023.09.10-17.48.38:508][469]LogPlayLevel: PIE: World Init took: (0.002058s)
+[2023.09.10-17.48.38:508][469]LogLoad: Game class is 'GM_Target_Game_C'
+[2023.09.10-17.48.38:509][469]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.09.10-23.18.38
+[2023.09.10-17.48.38:509][469]LogWorld: Bringing up level for play took: 0.001703
+[2023.09.10-17.48.38:512][469]LogLoad: Took 0.067354 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2023.09.10-17.48.45:332][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.09.10-17.48.45:333][ 28]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.09.10-17.48.45:333][ 28]LogSlate: Window 'Shooter Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2023.09.10-17.48.45:337][ 28]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.09.10-17.48.45:338][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.48.45:338][ 28]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2023.09.10-17.48.45:340][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.09.10-17.48.45:344][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.09.10-17.48.45:361][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2023.09.10-17.48.45:361][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.10-17.48.45:363][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2023.09.10-17.48.45:378][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.09.10-17.48.45:431][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 1 (  Trying 34.237.28.194:443...)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.237.28.194) port 443 (#42))
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: 000006530AFA4600: libcurl info message cache 9 (Closing connection 42)
+[2023.09.10-17.49.28:076][969]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.49.31:486][183]LogEditorTransaction: Undo Add Node
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 1 (  Trying 44.217.116.234:443...)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (44.217.116.234) port 443 (#43))
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: 0000065321352D00: libcurl info message cache 9 (Closing connection 43)
+[2023.09.10-17.50.27:790][117]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2023.09.10-17.51.02:369][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.09.10-17.51.02:373][857]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.018
+[2023.09.10-17.51.02:373][857]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/FirstPerson/Blueprints/GM_Target_Game] ([2] browsable assets)...
+[2023.09.10-17.51.02:373][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/GM_Target_Game]
+[2023.09.10-17.51.02:386][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto2
+[2023.09.10-17.51.02:386][857]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/GM_Target_Game_Auto2A32BDA434D8F81E24E052CB7D4627ED0.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/GM_Target_Game_Auto2.uasset'
+[2023.09.10-17.51.02:388][857]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/WBP_EndScreen] ([2] browsable assets)...
+[2023.09.10-17.51.02:392][857]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/FirstPerson/Blueprints/WBP_EndScreen.WBP_EndScreen]
+[2023.09.10-17.51.02:392][857]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/WBP_EndScreen]
+[2023.09.10-17.51.02:400][857]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/WBP_EndScreen_Auto2
+[2023.09.10-17.51.02:400][857]LogSavePackage: Moving '../../../../../../unrealprojects/Shooter/Saved/WBP_EndScreen_Auto22736B2054FBC0DFE45EE368E4C24EEEB.tmp' to '../../../../../../unrealprojects/Shooter/Saved/Autosaves/Game/FirstPerson/Blueprints/WBP_EndScreen_Auto2.uasset'
+[2023.09.10-17.51.02:400][857]LogFileHelpers: Auto-saving content packages took 0.028
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: request failed, libcurl error: 60 (SSL peer certificate or SSH remote key was not OK)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 1 (  Trying 18.235.154.150:443...)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.235.154.150) port 443 (#44))
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 3 (ALPN: offers http/1.1)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS handshake, Client hello (1):)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 5 (TLSv1.3 (IN), TLS handshake, Server hello (2):)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 6 (TLSv1.2 (IN), TLS handshake, Certificate (11):)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 7 (TLSv1.2 (OUT), TLS alert, unknown CA (560):)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 8 (SSL certificate problem: self signed certificate in certificate chain)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: 0000065326BCEB00: libcurl info message cache 9 (Closing connection 44)
+[2023.09.10-17.51.28:038][791]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD90975A2-4BF0-F7D8-4AD8-F7A10B485C5C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.0-27405482%2B%2B%2BUE5%2BRelease-5.3&UserID=813def0a4217dfeb37761896e6c7170f%7Cc5991a5cf0824d0c940222800b7a58dc%7C173ede24-d08f-42f9-bdc0-887edd53f0dc&AppEnvironment=datacollector-binary&UploadType=eteventstream

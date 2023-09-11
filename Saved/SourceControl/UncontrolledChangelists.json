@@ -14,7 +14,8 @@
 				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/WBP_UI.uasset",
 				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
-				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Rifle.uasset"
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Bullet.uasset"
 			]
 		}
 	]

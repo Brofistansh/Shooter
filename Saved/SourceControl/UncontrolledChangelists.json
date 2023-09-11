@@ -15,7 +15,9 @@
 				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/WBP_UI.uasset",
 				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/WBP_EndScreen.uasset",
 				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Rifle.uasset",
-				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Bullet.uasset"
+				"C:/unrealprojects/Shooter/Content/FirstPerson/Blueprints/BP_Bullet.uasset",
+				"C:/unrealprojects/Shooter/Content/Target/SM_Target_SM_Target/BP_Target4_GeometryCollection.uasset",
+				"C:/unrealprojects/Shooter/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/EP/6AR1KAPLPJDLT0S9HCMDW4.uasset"
 			]
 		}
 	]
